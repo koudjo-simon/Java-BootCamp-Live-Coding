@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java BootCamp _ Live Coding.iml" filepath="$PROJECT_DIR$/Java BootCamp _ Live Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les_bases/les_bases.iml" filepath="$PROJECT_DIR$/les_bases/les_bases.iml" />
+    </modules>
+  </component>
+</project>

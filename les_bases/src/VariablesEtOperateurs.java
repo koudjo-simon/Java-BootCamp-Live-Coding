@@ -2,19 +2,22 @@ public class VariablesEtOperateurs {
     public static void main(String[] args) {
         int nbre1, nbre2;
 
-        nbre1 = 10;
-        nbre2 = 20;
+        nbre1 = 19;
+        nbre2 = 50;
 
         int nbre3 = nbre1 + nbre2;
         int nbre4 = nbre1 *  nbre2;
         int nbre5 = nbre1 % 3;
 
+        System.out.println("Bonjour");
+
         System.out.println("Nbre3 vaut: " + nbre3 + "\nEt nbre4 vaut " + nbre4);
         System.out.println("nbre5 = " + nbre5);
 
+        // Les String
         String salutation = null; // déclaration
         String personne = "Monsieur";
-        salutation = "Bonjour !"; // affection
+        salutation = "Salut !"; // affection
 
 
         System.out.println("Salutation = " + salutation);

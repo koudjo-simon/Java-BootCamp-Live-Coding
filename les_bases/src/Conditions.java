@@ -60,8 +60,6 @@ public class Conditions {
             default -> System.out.println("Vous n'êtes pas autorisé.");
         }
 
-
-
     }
 
 }
